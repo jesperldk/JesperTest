@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=jesperl.dk.gwttest.Qwttest
+gwtMavenModuleShortName=Qwttest
+lastWarOutDir=D\:/eclipse-ws/test-ws/qwttest/target/Qwttest-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
